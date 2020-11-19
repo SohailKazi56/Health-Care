@@ -1,0 +1,112 @@
+[
+    {
+        "index" : "1",
+        "name" : "Ruby Hall",
+        "location": "bund garden road",
+        "picture":"assets/rubyhall.jpg",
+        "likes" : "98",
+        "time" : "24/7",
+        "contact":"8796719959",
+        "email": "rubyhall@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "2",
+        "name" : "jahangir hospital",
+        "location": "near pune station",
+        "picture":"assets/rubyhall.jpg",
+        "likes" : "120",
+        "time" : "24/7",
+        "contact":"8796719959",
+        "email": "jahangir@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "3",
+        "name" : "Columbia asia",
+        "location": "kharadi",
+        "picture":"assets/rubyhall.jpg",
+        "likes" : "88",
+        "time" : "24/7",
+        "contact":"8796719959",
+        "email": "columbia@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "4",
+        "name" : "noble",
+        "location": "hadapsar road",
+        "picture":"assets/rubyhall.jpg",
+        "likes" : "180",
+        "time" : "24/7",
+        "contact":"8796719959",
+        "email": "noble@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "5",
+        "name" : "lifeline",
+        "location": "wagholi",
+        "picture":"assets/rubyhall.jpg",
+        "likes" : "451",
+        "time" : "24/7",
+        "contact":"8796719959",
+        "email": "lifeline@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "6",
+        "name" : "sahyadri",
+        "location": "shastri nagar",
+        "picture":"assets/rubyhall.jpg",
+        "likes" : "621",
+        "time" : "24/7",
+        "contact":"8796719959",
+        "email": "sahyadri@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "7",
+        "name" : "naidu",
+        "location": "RTO road",
+        "picture":"assets/rubyhall.jpg",
+        "likes" : "151",
+        "time" : "24/7",
+        "contact":"8796719959",
+        "email": "naydu@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "8",
+        "name" : "sasun",
+        "location": "near pune station",
+        "picture":"assets/rubyhall.jpg",
+        "likes" : "265",
+        "time" : "24/7",
+        "contact":"8796719959",
+        "email": "sasun@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "9",
+        "name" : "city hospital",
+        "location": "camp",
+        "picture":"assets/rubyhall.jpg",
+        "likes" : "54",
+        "time" : "24/7",
+        "contact":"8796719959",
+        "email": "city@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "10",
+        "name" : "Shah hospital",
+        "location": "Yerwada",
+        "picture":"assets/rubyhall.jpg",
+        "likes" : "263",
+        "time" : "24/7",
+        "contact":"8796719959",
+        "email": "shah@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    }
+]
